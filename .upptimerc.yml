@@ -1,22 +1,28 @@
 # Change these first
-owner: upptime # Your GitHub organization or username, where this repository lives
+owner: pbrainbiz # Your GitHub organization or username, where this repository lives
 repo: upptime # The name of this repository
 
 sites:
-  - name: Google
-    url: https://www.google.com
-  - name: Wikipedia
-    url: https://en.wikipedia.org
-  - name: Hacker News
-    url: https://news.ycombinator.com
-  - name: Test Broken Site
-    url: https://thissitedoesnotexist.koj.co
+  - name: PBrain landing
+    url: https://www.pbrain.biz
+  - name: PBrain tenant
+    url: https://www.pbrain.biz/pbrain
+  - name: PBrain demo
+    url: https://demo.pbrain.biz
+  - name: PBrain experience
+    url: https://experience.pbrain.biz/panasonic/na-s106fr1bs
+  - name: PBrain web channel
+    url: https://www.pbrain.biz/chatbot/channelweb?id=52-107&index=0
+  - name: PBrain CN landing
+    url: https://www.pbraindemo.cn
+  - name: PBrain CN tenant
+    url: pbraindemo.cn/xiaomi-airpurifier
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
-  cname: demo.upptime.js.org
-  # baseUrl: /your-repo-name
+  # cname: demo.upptime.js.org
+  baseUrl: /upptime
   logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
   name: Upptime
   introTitle: "**Upptime** is the open-source uptime monitor and status page, powered entirely by GitHub."
