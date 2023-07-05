@@ -17,6 +17,8 @@ sites:
     url: https://www.pbraindemo.cn
   - name: PBrain CN tenant
     url: https://www.pbraindemo.cn/xiaomi-airpurifier
+  - name: PBrain CN web channel
+    url: https://www.pbraindemo.cn/chatbot/channelweb?id=4-68&index=1
   - name: PBrain system test tenant
     url: https://www.pbrain.appahoo.com/pbrain
   - name: PBrain system test web channel
