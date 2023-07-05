@@ -16,7 +16,11 @@ sites:
   - name: PBrain CN landing
     url: https://www.pbraindemo.cn
   - name: PBrain CN tenant
-    url: pbraindemo.cn/xiaomi-airpurifier
+    url: https://www.pbraindemo.cn/xiaomi-airpurifier
+  - name: PBrain system test tenant
+    url: https://www.pbrain.appahoo.com/pbrain
+  - name: PBrain system test web channel
+    url: https://www.pbrain.appahoo.com/chatbot/channelweb?id=1-10&index=0
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
