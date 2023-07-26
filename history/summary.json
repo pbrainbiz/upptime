@@ -4,10 +4,10 @@
     "url": "https://www.pbrain.biz",
     "icon": "https://icons.duckduckgo.com/ip3/www.pbrain.biz.ico",
     "slug": "p-brain-landing",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.92%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 1051,
@@ -15,17 +15,19 @@
     "timeWeek": 999,
     "timeMonth": 1051,
     "timeYear": 1051,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-07-26": 1
+    }
   },
   {
     "name": "PBrain tenant",
     "url": "https://www.pbrain.biz/pbrain",
     "icon": "https://icons.duckduckgo.com/ip3/www.pbrain.biz.ico",
     "slug": "p-brain-tenant",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.96%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 1011,
@@ -33,7 +35,9 @@
     "timeWeek": 469,
     "timeMonth": 1011,
     "timeYear": 1011,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-07-26": 1
+    }
   },
   {
     "name": "PBrain demo",
