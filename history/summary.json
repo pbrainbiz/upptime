@@ -98,28 +98,30 @@
     "url": "https://www.pbraindemo.cn",
     "icon": "https://icons.duckduckgo.com/ip3/www.pbraindemo.cn.ico",
     "slug": "p-brain-cn-landing",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.78%",
+    "uptimeWeek": "99.97%",
+    "uptimeMonth": "99.99%",
     "uptimeYear": "100.00%",
     "time": 2782,
     "timeDay": 2795,
     "timeWeek": 3157,
     "timeMonth": 2734,
     "timeYear": 2782,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-08-27": 3
+    }
   },
   {
     "name": "PBrain CN tenant",
     "url": "https://www.pbraindemo.cn/xiaomi-airpurifier",
     "icon": "https://icons.duckduckgo.com/ip3/www.pbraindemo.cn.ico",
     "slug": "p-brain-cn-tenant",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.88%",
+    "uptimeWeek": "99.98%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 905,
@@ -127,16 +129,18 @@
     "timeWeek": 583,
     "timeMonth": 654,
     "timeYear": 905,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-08-27": 2
+    }
   },
   {
     "name": "PBrain CN web channel",
     "url": "https://www.pbraindemo.cn/chatbot/channelweb?id=4-68&index=1",
     "icon": "https://icons.duckduckgo.com/ip3/www.pbraindemo.cn.ico",
     "slug": "p-brain-cn-web-channel",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -145,7 +149,9 @@
     "timeWeek": 572,
     "timeMonth": 781,
     "timeYear": 815,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-08-27": 0
+    }
   },
   {
     "name": "PBrain system test tenant",
