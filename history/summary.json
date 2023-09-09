@@ -116,19 +116,19 @@
     "url": "https://www.pbraindemo.cn/xiaomi-airpurifier",
     "icon": "https://icons.duckduckgo.com/ip3/www.pbraindemo.cn.ico",
     "slug": "p-brain-cn-tenant",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.95%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 884,
-    "timeDay": 557,
-    "timeWeek": 637,
-    "timeMonth": 706,
-    "timeYear": 884,
+    "status": "up",
+    "uptime": "99.99%",
+    "uptimeDay": "99.20%",
+    "uptimeWeek": "99.89%",
+    "uptimeMonth": "99.97%",
+    "uptimeYear": "99.99%",
+    "time": 879,
+    "timeDay": 554,
+    "timeWeek": 627,
+    "timeMonth": 701,
+    "timeYear": 879,
     "dailyMinutesDown": {
-      "2023-09-09": 1
+      "2023-09-09": 12
     }
   },
   {
@@ -136,19 +136,19 @@
     "url": "https://www.pbraindemo.cn/chatbot/channelweb?id=4-68&index=1",
     "icon": "https://icons.duckduckgo.com/ip3/www.pbraindemo.cn.ico",
     "slug": "p-brain-cn-web-channel",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 825,
-    "timeDay": 541,
-    "timeWeek": 752,
-    "timeMonth": 796,
-    "timeYear": 825,
+    "status": "up",
+    "uptime": "99.99%",
+    "uptimeDay": "99.23%",
+    "uptimeWeek": "99.89%",
+    "uptimeMonth": "99.97%",
+    "uptimeYear": "99.99%",
+    "time": 829,
+    "timeDay": 828,
+    "timeWeek": 798,
+    "timeMonth": 806,
+    "timeYear": 829,
     "dailyMinutesDown": {
-      "2023-09-09": 0
+      "2023-09-09": 11
     }
   },
   {
