@@ -98,9 +98,9 @@
     "url": "https://www.pbraindemo.cn",
     "icon": "https://icons.duckduckgo.com/ip3/www.pbraindemo.cn.ico",
     "slug": "p-brain-cn-landing",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -109,7 +109,9 @@
     "timeWeek": 2965,
     "timeMonth": 3070,
     "timeYear": 2874,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-09-14": 0
+    }
   },
   {
     "name": "PBrain CN tenant",
