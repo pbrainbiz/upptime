@@ -98,19 +98,19 @@
     "url": "https://www.pbraindemo.cn",
     "icon": "https://icons.duckduckgo.com/ip3/www.pbraindemo.cn.ico",
     "slug": "p-brain-cn-landing",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 2874,
-    "timeDay": 2693,
-    "timeWeek": 2965,
-    "timeMonth": 3070,
-    "timeYear": 2874,
+    "status": "up",
+    "uptime": "99.99%",
+    "uptimeDay": "99.20%",
+    "uptimeWeek": "99.89%",
+    "uptimeMonth": "99.97%",
+    "uptimeYear": "99.99%",
+    "time": 2931,
+    "timeDay": 4938,
+    "timeWeek": 3492,
+    "timeMonth": 3195,
+    "timeYear": 2931,
     "dailyMinutesDown": {
-      "2023-09-14": 0
+      "2023-09-14": 12
     }
   },
   {
