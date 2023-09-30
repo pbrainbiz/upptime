@@ -138,19 +138,19 @@
     "url": "https://www.pbraindemo.cn/chatbot/channelweb?id=4-68&index=1",
     "icon": "https://icons.duckduckgo.com/ip3/www.pbraindemo.cn.ico",
     "slug": "p-brain-cn-web-channel",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 846,
-    "timeDay": 1023,
-    "timeWeek": 1028,
-    "timeMonth": 868,
-    "timeYear": 846,
+    "status": "up",
+    "uptime": "99.91%",
+    "uptimeDay": "91.71%",
+    "uptimeWeek": "98.82%",
+    "uptimeMonth": "99.73%",
+    "uptimeYear": "99.91%",
+    "time": 897,
+    "timeDay": 3286,
+    "timeWeek": 1593,
+    "timeMonth": 1002,
+    "timeYear": 897,
     "dailyMinutesDown": {
-      "2023-09-30": 0
+      "2023-09-30": 119
     }
   },
   {
