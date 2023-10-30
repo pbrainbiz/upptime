@@ -118,9 +118,9 @@
     "url": "https://www.pbraindemo.cn/xiaomi-airpurifier",
     "icon": "https://icons.duckduckgo.com/ip3/www.pbraindemo.cn.ico",
     "slug": "p-brain-cn-tenant",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
@@ -130,6 +130,7 @@
     "timeMonth": 636,
     "timeYear": 778,
     "dailyMinutesDown": {
+      "2023-10-30": 0,
       "2023-09-20": 20
     }
   },
