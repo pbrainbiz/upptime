@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
-    "time": 1033,
-    "timeDay": 1051,
-    "timeWeek": 1138,
+    "time": 1034,
+    "timeDay": 1197,
+    "timeWeek": 1140,
     "timeMonth": 1023,
-    "timeYear": 1033,
+    "timeYear": 1034,
     "dailyMinutesDown": {
       "2023-07-26": 40
     }
@@ -30,11 +30,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
-    "time": 555,
-    "timeDay": 471,
-    "timeWeek": 497,
+    "time": 554,
+    "timeDay": 492,
+    "timeWeek": 505,
     "timeMonth": 457,
-    "timeYear": 555,
+    "timeYear": 554,
     "dailyMinutesDown": {
       "2023-07-26": 40
     }
@@ -50,11 +50,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 758,
+    "time": 759,
     "timeDay": 842,
-    "timeWeek": 733,
-    "timeMonth": 725,
-    "timeYear": 758,
+    "timeWeek": 752,
+    "timeMonth": 726,
+    "timeYear": 759,
     "dailyMinutesDown": {}
   },
   {
@@ -68,11 +68,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 865,
-    "timeDay": 963,
-    "timeWeek": 901,
-    "timeMonth": 849,
-    "timeYear": 865,
+    "time": 866,
+    "timeDay": 945,
+    "timeWeek": 876,
+    "timeMonth": 848,
+    "timeYear": 866,
     "dailyMinutesDown": {}
   },
   {
@@ -81,19 +81,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.pbrain.biz.ico",
     "slug": "p-brain-web-channel",
     "status": "up",
-    "uptime": "99.99%",
-    "uptimeDay": "99.14%",
-    "uptimeWeek": "99.88%",
-    "uptimeMonth": "99.97%",
-    "uptimeYear": "99.99%",
-    "time": 930,
-    "timeDay": 395,
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 928,
+    "timeDay": 400,
     "timeWeek": 530,
     "timeMonth": 508,
-    "timeYear": 930,
-    "dailyMinutesDown": {
-      "2023-11-27": 12
-    }
+    "timeYear": 928,
+    "dailyMinutesDown": {}
   },
   {
     "name": "PBrain CN landing",
@@ -106,11 +104,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
-    "time": 2896,
-    "timeDay": 2895,
-    "timeWeek": 3246,
-    "timeMonth": 2971,
-    "timeYear": 2896,
+    "time": 2899,
+    "timeDay": 3350,
+    "timeWeek": 3277,
+    "timeMonth": 2979,
+    "timeYear": 2899,
     "dailyMinutesDown": {
       "2023-09-20": 20
     }
@@ -126,11 +124,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
-    "time": 754,
-    "timeDay": 586,
-    "timeWeek": 710,
-    "timeMonth": 648,
-    "timeYear": 754,
+    "time": 753,
+    "timeDay": 597,
+    "timeWeek": 683,
+    "timeMonth": 647,
+    "timeYear": 753,
     "dailyMinutesDown": {
       "2023-09-20": 20
     }
@@ -146,11 +144,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.94%",
-    "time": 880,
-    "timeDay": 527,
-    "timeWeek": 916,
+    "time": 877,
+    "timeDay": 517,
+    "timeWeek": 837,
     "timeMonth": 868,
-    "timeYear": 880,
+    "timeYear": 877,
     "dailyMinutesDown": {
       "2023-09-30": 119
     }
@@ -166,11 +164,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 972,
-    "timeDay": 986,
-    "timeWeek": 994,
+    "time": 973,
+    "timeDay": 1061,
+    "timeWeek": 1005,
     "timeMonth": 952,
-    "timeYear": 972,
+    "timeYear": 973,
     "dailyMinutesDown": {}
   },
   {
@@ -185,8 +183,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 446,
-    "timeDay": 511,
-    "timeWeek": 540,
+    "timeDay": 505,
+    "timeWeek": 533,
     "timeMonth": 491,
     "timeYear": 446,
     "dailyMinutesDown": {}
