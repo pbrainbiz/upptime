@@ -80,19 +80,19 @@
     "url": "https://www.pbrain.biz/chatbot/channelweb?id=52-107&index=0",
     "icon": "https://icons.duckduckgo.com/ip3/www.pbrain.biz.ico",
     "slug": "p-brain-web-channel",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.25%",
+    "uptimeWeek": "99.89%",
+    "uptimeMonth": "99.98%",
     "uptimeYear": "100.00%",
-    "time": 835,
-    "timeDay": 517,
-    "timeWeek": 634,
-    "timeMonth": 592,
-    "timeYear": 835,
+    "time": 833,
+    "timeDay": 509,
+    "timeWeek": 617,
+    "timeMonth": 589,
+    "timeYear": 833,
     "dailyMinutesDown": {
-      "2024-01-22": 0
+      "2024-01-22": 11
     }
   },
   {
