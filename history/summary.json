@@ -161,19 +161,19 @@
     "url": "https://www.pbrain.appahoo.com/pbrain",
     "icon": "https://icons.duckduckgo.com/ip3/www.pbrain.appahoo.com.ico",
     "slug": "p-brain-system-test-tenant",
-    "status": "down",
-    "uptime": "99.98%",
-    "uptimeDay": "94.96%",
-    "uptimeWeek": "99.28%",
-    "uptimeMonth": "99.83%",
-    "uptimeYear": "99.98%",
-    "time": 1056,
-    "timeDay": 781,
-    "timeWeek": 944,
-    "timeMonth": 1459,
-    "timeYear": 1056,
+    "status": "up",
+    "uptime": "99.97%",
+    "uptimeDay": "92.67%",
+    "uptimeWeek": "98.95%",
+    "uptimeMonth": "99.76%",
+    "uptimeYear": "99.97%",
+    "time": 1060,
+    "timeDay": 978,
+    "timeWeek": 1019,
+    "timeMonth": 1467,
+    "timeYear": 1060,
     "dailyMinutesDown": {
-      "2024-02-07": 72
+      "2024-02-07": 105
     }
   },
   {
@@ -181,19 +181,19 @@
     "url": "https://www.pbrain.appahoo.com/chatbot/channelweb?id=1-10&index=0",
     "icon": "https://icons.duckduckgo.com/ip3/www.pbrain.appahoo.com.ico",
     "slug": "p-brain-system-test-web-channel",
-    "status": "down",
-    "uptime": "99.98%",
-    "uptimeDay": "94.96%",
-    "uptimeWeek": "99.28%",
-    "uptimeMonth": "99.83%",
-    "uptimeYear": "99.98%",
+    "status": "up",
+    "uptime": "99.97%",
+    "uptimeDay": "92.67%",
+    "uptimeWeek": "98.95%",
+    "uptimeMonth": "99.76%",
+    "uptimeYear": "99.97%",
     "time": 487,
-    "timeDay": 359,
-    "timeWeek": 479,
-    "timeMonth": 616,
+    "timeDay": 404,
+    "timeWeek": 489,
+    "timeMonth": 615,
     "timeYear": 487,
     "dailyMinutesDown": {
-      "2024-02-07": 72
+      "2024-02-07": 105
     }
   }
 ]
