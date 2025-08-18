@@ -40,19 +40,19 @@
     "url": "https://demo.pbrain.biz",
     "icon": "https://icons.duckduckgo.com/ip3/demo.pbrain.biz.ico",
     "slug": "p-brain-demo",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.93%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "98.73%",
+    "uptimeWeek": "99.82%",
+    "uptimeMonth": "99.96%",
     "uptimeYear": "100.00%",
     "time": 779,
-    "timeDay": 682,
-    "timeWeek": 854,
-    "timeMonth": 825,
-    "timeYear": 787,
+    "timeDay": 665,
+    "timeWeek": 828,
+    "timeMonth": 819,
+    "timeYear": 786,
     "dailyMinutesDown": {
-      "2025-08-18": 1
+      "2025-08-18": 18
     }
   },
   {
@@ -78,19 +78,19 @@
     "url": "https://www.pbrain.biz/chatbot/channelweb?id=52-107&index=0",
     "icon": "https://icons.duckduckgo.com/ip3/www.pbrain.biz.ico",
     "slug": "p-brain-web-channel",
-    "status": "down",
+    "status": "up",
     "uptime": "99.99%",
-    "uptimeDay": "99.97%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "98.77%",
+    "uptimeWeek": "99.82%",
+    "uptimeMonth": "99.96%",
     "uptimeYear": "100.00%",
     "time": 547,
-    "timeDay": 416,
-    "timeWeek": 494,
-    "timeMonth": 533,
+    "timeDay": 420,
+    "timeWeek": 485,
+    "timeMonth": 530,
     "timeYear": 554,
     "dailyMinutesDown": {
-      "2025-08-18": 0
+      "2025-08-18": 18
     }
   },
   {
