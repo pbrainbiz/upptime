@@ -22,18 +22,20 @@
     "url": "https://www.pbrain.biz/pbrain",
     "icon": "https://icons.duckduckgo.com/ip3/www.pbrain.biz.ico",
     "slug": "p-brain-tenant",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.67%",
+    "uptimeWeek": "99.95%",
+    "uptimeMonth": "99.99%",
     "uptimeYear": "100.00%",
     "time": 486,
     "timeDay": 425,
     "timeWeek": 493,
     "timeMonth": 442,
     "timeYear": 495,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-08-25": 5
+    }
   },
   {
     "name": "PBrain demo",
@@ -78,18 +80,19 @@
     "url": "https://www.pbrain.biz/chatbot/channelweb?id=52-107&index=0",
     "icon": "https://icons.duckduckgo.com/ip3/www.pbrain.biz.ico",
     "slug": "p-brain-web-channel",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "99.82%",
-    "uptimeMonth": "99.96%",
+    "uptimeDay": "99.76%",
+    "uptimeWeek": "99.79%",
+    "uptimeMonth": "99.95%",
     "uptimeYear": "100.00%",
-    "time": 545,
+    "time": 546,
     "timeDay": 458,
     "timeWeek": 459,
     "timeMonth": 505,
     "timeYear": 553,
     "dailyMinutesDown": {
+      "2025-08-25": 3,
       "2025-08-18": 18
     }
   },
@@ -168,10 +171,10 @@
     "url": "https://www.pbrain.appahoo.com/pbrain",
     "icon": "https://icons.duckduckgo.com/ip3/www.pbrain.appahoo.com.ico",
     "slug": "p-brain-system-test-tenant",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.86%",
+    "uptimeWeek": "99.98%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 1168,
@@ -179,16 +182,18 @@
     "timeWeek": 2134,
     "timeMonth": 1388,
     "timeYear": 1101,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-08-25": 2
+    }
   },
   {
     "name": "PBrain system test web channel",
     "url": "https://www.pbrain.appahoo.com/chatbot/channelweb?id=1-10&index=0",
     "icon": "https://icons.duckduckgo.com/ip3/www.pbrain.appahoo.com.ico",
     "slug": "p-brain-system-test-web-channel",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.97%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -197,6 +202,8 @@
     "timeWeek": 835,
     "timeMonth": 536,
     "timeYear": 527,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-08-25": 0
+    }
   }
 ]
